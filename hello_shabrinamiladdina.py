@@ -1,0 +1,1 @@
+print("Halo, saya Shabrina Miladdina sedang belajar GitHub di NgabubuRGit!")
